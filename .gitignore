@@ -1,0 +1,11 @@
+# Local Obsidian state and operating-system files
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.trash/
+.DS_Store
+Thumbs.db
+
+# Local secrets, if examples later grow into runnable projects
+.env
+.env.*
+!.env.example
